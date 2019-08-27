@@ -1,9 +1,9 @@
 # Responsive Portfolio
 
 ## Site pictures
-![Site](one.jpg)
-![Site](two.jpg)
-![Site](three.jpg)
+![Site](firstpage.jpg)
+![Site](secondpage.jpg)
+![Site](thirdpage.jpg)
 
 ## Technologies Used
 - HTML : used to create elements on the DOM
