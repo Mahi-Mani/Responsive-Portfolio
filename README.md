@@ -1,17 +1,17 @@
 # Responsive Portfolio
 
 ## Site pictures
-![Site](index_980.jpg)
-![Site](index_768.jpg)
-![Site](index_640.jpg)
+![Site](980-index.jpg)
+![Site](768-index.jpg)
+![Site](640-index.jpg)
 
-![Site](portfolio_980.jpg)
-![Site](portfolio_768.jpg)
-![Site](portfolio_640.jpg)
+![Site](980-portfolio.jpg)
+![Site](768-portfolio.jpg)
+![Site](640-portfolio.jpg)
 
-![Site](contact_980.jpg)
-![Site](contact_768.jpg)
-![Site](contact_640.jpg)
+![Site](980-contact.jpg)
+![Site](768-contact.jpg)
+![Site](640-contact.jpg)
 
 ## Technologies Used
 - HTML : used to create elements on the DOM
